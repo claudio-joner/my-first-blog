@@ -1,0 +1,8 @@
+*.pyc
+*~
+__pycache__
+entornovirtual
+db.sqlite3
+/static
+.DS_Store
+requeriments.txt
